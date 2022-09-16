@@ -1,0 +1,57 @@
+.navbar {
+    width: 100%;
+    margin-top: black;
+    background-color:gainsboro;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.log-conteiner {
+    padding: 2px;
+    margin: 1px;
+    width: auto;
+}
+
+.home img {
+    height: 100px;
+    width: 100px;
+}
+
+.home:hover {
+    background-color: darkcyan;
+    width: auto;
+    margin: 1px;
+    width: auto;
+}
+
+.about:hover {
+    background-color: darkcyan;
+    width: auto;
+    margin: 1px;
+    width: auto;
+}
+
+.cancionero:hover {
+    background-color: darkcyan;
+    width: auto;
+    margin: 1px;
+    width: auto;
+}
+
+.login:hover {
+    background-color: darkcyan;
+    width: auto;
+    margin: 1px;
+    width: auto;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    width: 50%;
+
+}
